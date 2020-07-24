@@ -8,7 +8,7 @@
 
 ### Project description
 
-Create a clone app of Facebook in Ruby on Rails. This is a group project focused on pair programing and delivering MPV utilizing XP principles.
+Create a clone app of Facebook in Ruby on Rails. This is a group project focused on pair programming and delivering MVP, utilizing XP principles.
 
 ### The Team:
 
